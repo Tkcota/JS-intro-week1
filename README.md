@@ -24,6 +24,6 @@ Run all tests once:
 ```shell
 yarn test
 
-yarn to get dependencies
+# yarn to get dependencies
 
 ```
